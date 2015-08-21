@@ -41,8 +41,8 @@ navigation_bar = [
     ('wep', 'WEP'),
     ('wpa-dict', 'WPA-Dictionary'),
     ('wpa-cp', 'WPA-Cowpatty'),
-    ('wps-reaver', 'WPS-Reaver'),
     ('wps-bully', 'WPS-Bully'),
+    ('wps-reaver', 'WPS-Reaver'),
     ('dos', 'DoS'),
     ('dos2', 'DoS 2')
 ] 
